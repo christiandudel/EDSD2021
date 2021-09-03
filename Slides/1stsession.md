@@ -26,7 +26,7 @@ output: beamer_presentation
 Materials will be available from GitHub, also mirrored on OSF:
   
 - https://github.com/christiandudel/EDSD2021
-- https://osf.io/c6jru/ 
+- https://osf.io/fbvgr/
   
 # What will be covered in this course?
   

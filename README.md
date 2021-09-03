@@ -36,12 +36,14 @@ Books:
 
 * Wickham, Grolemund: R for Data Science. https://r4ds.had.co.nz/
 * Healy: Data Visualization. https://socviz.co/ 
+* Lovelace, Nowosad, Muenchow: Geocomputation with R. https://geocompr.robinlovelace.net/ 
 * Hernan, Robins: Causal Inference. https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/
+* Hastie, Tibshirani, Friedman: Elements of Statistical Learning. https://web.stanford.edu/~hastie/ElemStatLearn/ 
 * Allerhand: A Tiny Handbook of R. http://link.springer.com/book/10.1007%2F978-3-642-17980-8 (available for free through MPIDR account)
 
 Websites:
 
-* https://stackexchange.com/
+* https://stackoverflow.com/
 * https://www.r-bloggers.com/ 
 * https://colorbrewer2.org/
 

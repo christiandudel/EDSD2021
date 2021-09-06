@@ -62,7 +62,7 @@ At the end of this course...
 - Email: dudel@demogr.mpg.de
 - Office: 359 (3rd floor, east wing)
 - Twitter: @c_dudel
-- Website: https://sites.google.com/view/cdudel
+- Website: http://www.christiandudel.com
 
 # Things I work on/I am interested in
 
@@ -136,6 +136,7 @@ use two or more!
   
 - One assignment consisting of coding tasks
 - You submit code as solutions, via email
+- Deadline: October 21
 - You can work in groups
 - Pass/fail
 
@@ -150,9 +151,10 @@ use two or more!
 - Free, open source
 - Can easily be extended
 - More than 18,000 packages available
+- Many methods are already implemented in R
 - Commonly used in both science and industry
 - Tons of R-related materials: Books, journals, conferences, forums, tutorials...
-- Many methods are already implemented in R
+
 
 # Why use RStudio?
 

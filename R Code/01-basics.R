@@ -81,7 +81,7 @@
   # Some nice features:
   # Syntax highlighting
   # Auto-completion, e.g., brackets
-  # Hotkeys, e.g. "ALT -" for "<-" 
+  # Hotkeys
   # Saving of script files
   # Multiple script files = one R session  
 

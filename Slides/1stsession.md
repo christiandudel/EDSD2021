@@ -72,11 +72,11 @@ At the end of this course...
 
 # Course schedule
 
-September 9 (Mon), 14:30-16:30 (CEST)
+September 6 (Mon), 14:30-16:30 (CEST)
 
-September 10 (Tue), 14:30-16:30 (CEST)
+September 7 (Tue), 14:30-16:30 (CEST)
 
-September 10 (Tue), 17:00-18:30 (CEST)
+September 7 (Tue), 17:00-18:30 (CEST)
 
 September 15 (Wed), 14:00-15:30 (CEST)
 

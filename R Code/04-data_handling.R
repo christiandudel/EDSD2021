@@ -120,7 +120,7 @@
     labs(x="Date",
          y="Deaths/million",
          title="COVID-19 deaths per million inhabitants",
-         subtitle="February-August 2020",
+         subtitle="February-September 2021",
          caption="Source: OWID/ECDC")+
     scale_colour_manual(values = cols)+
     theme_bw()

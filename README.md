@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains materials for the computer programming course of the EDSD cohort 2020. Currently, there are three folders:
+This repository contains materials for the computer programming course of the EDSD cohort 2021. Currently, there are three folders:
 
 * "R Code": R code for each session.
 * "Slides": Slides of the first session.
